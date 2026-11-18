@@ -1,7 +1,10 @@
 # ai-judge-rich-plan-v2
 
-[![Rank](https://make.fun/badge/ai-judge-rich-01/rivaly07/ai-judge-rich-plan-v2/rank.svg)](https://make.fun/bounty/ai-judge-rich-01)
-[![Reward](https://make.fun/badge/ai-judge-rich-01/rivaly07/ai-judge-rich-plan-v2/reward.svg)](https://make.fun/bounty/ai-judge-rich-01)
+[![make.fun · ai-judge-rich-01](https://make.fun/badge/ai-judge-rich-01.svg)](https://make.fun/bounty/ai-judge-rich-01?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-rich-01)
+[![rank](https://make.fun/badge/ai-judge-rich-01/rivaly07/ai-judge-rich-plan-v2/rank.svg)](https://make.fun/bounty/ai-judge-rich-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-rich-01)
+[![reward](https://make.fun/badge/ai-judge-rich-01/rivaly07/ai-judge-rich-plan-v2/reward.svg)](https://make.fun/bounty/ai-judge-rich-01?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-rich-01)
+
+
 
 Entry for make.fun bounty `ai-judge-rich-01`. The program writes one 984-character plan to
 `/output/entry.txt` (or `$MAKEFUN_OUTPUT_DIR/entry.txt`): a software agent with $100 and thirty
